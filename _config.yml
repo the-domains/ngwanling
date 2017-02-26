@@ -1,0 +1,37 @@
+name: ngWanling
+analytics: {}
+github: true
+description: Wan Ling's Portfolio
+author:
+  name: Wan Ling
+  email: wanling96@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.3310326803475618
+color:
+  lightness: 0.9684654723313789
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  saturation: 0.7434810895341172
+  brandStrength: 0.9408949401557667
+  rhythmicContrast: 0.4484854006321368
+content_rating:
+  adult: false
+typography_spectrum: 0.4455348199699074
+opengraph: {}
+title: Ng Wan Ling
